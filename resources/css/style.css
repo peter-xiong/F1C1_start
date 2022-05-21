@@ -114,11 +114,7 @@ header .mobile {
 /* Sign Up Section */
 
 #main-section {
-<<<<<<< HEAD:resources/css/style.css
   background-image: url(/resources/images/banner-landingpage.jpg);
-=======
-  background-image: url(https://github.com/peter-xiong/F1C1_start/blob/main/images/banner-landingpage.jpg);
->>>>>>> 9fab1d814b6b068cf52b95f21ed8c14a5c9bfdd6:style.css
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
